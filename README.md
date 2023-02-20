@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hassan Kazi</h1>
-<h3 align="center">CS @ Queens College & Software Engineer Fellow @ Springboard</h3>
+<h3 align="center">Software Engineer Fellow @ Springboard</h3>
 
 - :round_pushpin: I'm currently located in **New York, NY.**
 
-- 🌱 I’m currently working on my **first capstone project!**
+- 🌱 I’m currently working on my **second capstone project!**
 
 - 🔭 I’m currently working on **first capstone project!**
 
