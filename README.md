@@ -3,19 +3,17 @@
 
 - :round_pushpin: I'm currently located in **New York, NY.**
 
-- 🌱 I’m currently working on my **second capstone project!**
-
-- 🔭 I’m currently working on **first capstone project!**
+- 🔭 I’m currently working on my **second capstone project!**
 
 - 📝 I'm interested in **solving puzzles.**
 
 - ⚡ Fun fact: **I am also learning mandarin**
 
-- 📫 How to reach me **hassan.kazi76@qmail.cuny.edu**
+- 📫 How to reach me **andaijja@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hassan-kazi-531493197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hassan-kazi-531493197/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hassan-kaz1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hassan-kazi-531493197/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
